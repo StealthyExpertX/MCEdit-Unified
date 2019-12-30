@@ -1,0 +1,19 @@
+{
+  "load": "1.5",
+  "blocks": [
+    {
+      "id": 416,
+      "idStr": "barrier",
+      "mapcolor": [
+        111,
+        91,
+        54
+      ],
+      "name": "Barrier",
+      "tex": [
+        18,
+        20
+      ]
+    }
+  ]
+}
